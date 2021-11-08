@@ -19,7 +19,7 @@
   "homepage": "https://github.com/halvorboe/CogQL#readme",
   "dependencies": {
     "apollo-datasource-rest": "^0.5.0",
-    "apollo-server": "^2.6.7",
+    "apollo-server": "^2.25.3",
     "dotenv": "^8.0.0",
     "graphql": "^14.4.2"
   }
